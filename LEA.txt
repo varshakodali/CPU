@@ -1,0 +1,3 @@
+LI Rb,0x5
+LI Rc,0x2
+LEA Ra,(Rb,Rc,2)
